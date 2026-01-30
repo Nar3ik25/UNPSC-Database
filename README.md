@@ -14,6 +14,9 @@ The UNPSC Database in currently unfinished and is in a very early state right no
 - [@Nar3ik25](https://github.com/Nar3ik25)
 
 
-## Acknowledgements
+## Credits
 
  - Thanks to [CM Immersive](https://www.cm-immersive.com/itr2) for making such a good game
+ - Thanks to Mad Martian and Åctual Årtifacts for map data on discord
+ - Thanks to Explorer #554 “Trustworthy” for ideas and feedback
+ - Thanks to Bagel511 “Idea Guy” for ideas and feedback
