@@ -8,6 +8,10 @@ The UNPSC Database is a wiki application for the game "Into the Radius 2"
 
 The UNPSC Database in currently unfinished and is in a very early state right now, expect bugs and for things to change a lot.
 
+## Download
+
+Click here to download the [UNPSC Database v0.1.0.0](https://github.com/Nar3ik25/UNPSC-Database/releases/download/v0.1.0.0/UNPSC.Database.Setup.exe)
+
 
 ## Authors
 
