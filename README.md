@@ -1,7 +1,7 @@
 
 # UNPSC Database
 
-[![.NET Version](https://img.shields.io/badge/.NET-8.0-%235d2b90)](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+[![.NET Version](https://img.shields.io/badge/.NET-9.0-purple)](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 
 
 The UNPSC Database is a wiki application for the game "Into the Radius 2"
