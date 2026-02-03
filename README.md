@@ -10,7 +10,7 @@ The UNPSC Database in currently unfinished and is in a very early state right no
 
 ## Download
 
-Click here to download the [UNPSC Database v0.1.2.0](https://github.com/Nar3ik25/UNPSC-Database/releases/download/v0.1.2.0/UNPSC.Database.Setup.exe)
+Click here to download the [UNPSC Database v0.1.2.1](https://github.com/Nar3ik25/UNPSC-Database/releases/download/v0.1.2.1/UNPSC.Database.Setup.exe)
 
 
 ## Authors
