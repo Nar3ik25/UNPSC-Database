@@ -23,4 +23,4 @@ Click here to download the [UNPSC Database v0.1.3.1](https://github.com/Nar3ik25
  - Thanks to [CM Immersive](https://www.cm-immersive.com/itr2) for making such a good game
  - Thanks to Mad Martian and Åctual Årtifacts for map data on discord
  - Thanks to Explorer #554 “Trustworthy” for ideas and feedback
- - Thanks to Bagel511 “Idea Guy” for ideas and feedback
+ - Thanks to Bagel511 “Idea Guy” for ideas and feedback, and for writing some pages
