@@ -10,7 +10,8 @@ The UNPSC Database in currently unfinished and is in a very early state right no
 
 ## Download
 
-Click here to download the [UNPSC Database v0.1.4.1](https://github.com/Nar3ik25/UNPSC-Database/releases/download/v0.1.4.1/UNPSC.Database.Setup.exe)
+Click here to download the [UNPSC Database v0.1.4.2](https://github.com/Nar3ik25/UNPSC-Database/releases/download/v0.1.4.2/UNPSC.Database.Setup.exe)
+Please note that the log in screen after the application starts is fake and you can put almost anything you want into it, it is just there for immersion.
 
 
 ## Authors
